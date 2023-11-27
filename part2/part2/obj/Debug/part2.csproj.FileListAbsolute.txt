@@ -1,0 +1,7 @@
+D:\practic exercise\assignment21\part2\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+D:\practic exercise\assignment21\part2\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment21\part2\part2\bin\Debug\part2.exe.config
+D:\practic exercise\assignment21\part2\part2\bin\Debug\part2.exe
+D:\practic exercise\assignment21\part2\part2\bin\Debug\part2.pdb
+D:\practic exercise\assignment21\part2\part2\obj\Debug\part2.exe
+D:\practic exercise\assignment21\part2\part2\obj\Debug\part2.pdb
